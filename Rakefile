@@ -11,6 +11,9 @@ require "hoe"
 # Hoe.plugin :rcov
 # Hoe.plugin :rdoc
 
+# Bundler plugin requires an extra gem, hoe-bundler, to be installed
+# Hoe.plugin :bundler
+
 Hoe.spec "bonecollector" do
   developer("Peter Penzin", "penzin-dev@gmail.com")
 

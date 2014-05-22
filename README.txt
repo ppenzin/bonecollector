@@ -1,10 +1,9 @@
 = bonecollector
 
-home  :: FIX (url)
-code  :: FIX (url)
-rdoc  :: FIX (url)
-bugs  :: FIX (url)
-... etc ...
+home  :: https://github.com/ppenzin/bonecollector
+code  :: https://github.com/ppenzin/bonecollector
+wiki  :: https://github.com/ppenzin/bonecollector/wiki
+bugs  :: https://github.com/ppenzin/bonecollector/issues
 
 == DESCRIPTION:
 
@@ -13,7 +12,7 @@ board, with middle horizontal line being project `backbone.'
 
 == FEATURES/PROBLEMS:
 
-* FIX (list of features or problems)
+* TBA
 
 == SYNOPSIS:
 
@@ -21,13 +20,14 @@ board, with middle horizontal line being project `backbone.'
 
 == REQUIREMENTS:
 
-* FIX (list of requirements)
+* TBA
 
 == INSTALL:
 
 * FIX (sudo gem install, anything else)
 
 == DEVELOPERS:
+Petr (Peter) Penzin
 
 After checking out the source, run:
 
