@@ -1,0 +1,8 @@
+.autotest
+History.txt
+Manifest.txt
+README.txt
+Rakefile
+bin/bonecollector
+lib/bonecollector.rb
+test/test_bonecollector.rb
